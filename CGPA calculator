@@ -45,4 +45,4 @@ int main()
     printf("%.2f", cgpa * 9.5);
 }
  
-// This code is contributed by Bhupendra_Singh
+// This code is contributed by Sumedh Koli
